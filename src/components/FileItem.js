@@ -202,5 +202,4 @@ function FileItem({ file, onTrash, onRestore, onDelete, onVersionUploaded }) {
     </div>
   );
 }
-
 export default FileItem;
